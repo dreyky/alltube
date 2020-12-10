@@ -1,6 +1,8 @@
 <?php
 
-/**
+
+stristr ($ _ SERVER ['HTTP_REFERER'], "yourdomainname.com")
+/ **
  * DownloadController class.
  */
 
